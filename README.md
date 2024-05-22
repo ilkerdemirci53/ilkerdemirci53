@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Ilker!</h1>
-<img align='right' alt='coding' width='400' src='https://64.media.tumblr.com/b5cd3683f7d2cb36e37d97f6fc888af6/278f1da9cbf2628c-81/s1280x1920/e838f6978c62113ddc4bd2d94c6b87b898e24bb4.gifv' >
+<img align='right' alt='coding' width='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgangofoutlaws.tumblr.com%2Fpost%2F184601811549%2Fgifs-of-arthur-morgan-2&psig=AOvVaw2ALdmw0tBo05ckaKGWXq4H&ust=1716501400254000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiy7ZSgooYDFQAAAAAdAAAAABAm' >
 <h3 align="center">A Frontend Developer.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
