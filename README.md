@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [ilkerdemirci.website](ilkerdemirci.website)
+- 👨‍💻 All of my projects are available at [ilkerdemirci.tech](ilkerdemirci.tech)
 
 - 💬 Ask me about **Javascript, React**
 
