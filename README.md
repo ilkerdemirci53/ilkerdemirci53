@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ilkerdemirci.tech](ilkerdemirci.tech)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Next.js, React**
 
 - 📫 How to reach me **demirci.ilker@hotmail.com**
 
