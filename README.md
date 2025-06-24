@@ -3,11 +3,11 @@
 <img align='right' alt='coding' width='400' src='https://64.media.tumblr.com/e5ef5a7b605fa973c69337972e139189/tumblr_pl6g9lGx6l1y0l3cao1_500.gifv' >
 <h3 align="center">A Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python Flask**
 
 - 👨‍💻 All of my projects are available at [ilkerdemirci.tech](ilkerdemirci.tech)
 
-- 💬 Ask me about **Next.js, React**
+- 💬 Ask me about **Next.js, Typescript**
 
 - 📫 How to reach me **demirci.ilker@hotmail.com**
 
