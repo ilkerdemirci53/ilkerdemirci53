@@ -4,7 +4,6 @@
 <img align='right' alt='coding' width='400' src='https://64.media.tumblr.com/e5ef5a7b605fa973c69337972e139189/tumblr_pl6g9lGx6l1y0l3cao1_500.gifv' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkerdemirci53&label=Profile%20views&color=0e75b6&style=flat" alt="ilkerdemirci53" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkerdemirci53" alt="ilkerdemirci53" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ilkerdemirci.dev](https://ilkerdemirci.dev)
 
